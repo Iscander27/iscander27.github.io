@@ -1,0 +1,16 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+img{
+	height: 500px;
+	
+}
+section{
+	height: 500px;
+	/*background-image: url(../img/images.jpg);*/
+	background-position: top;
+	width: 100vh;
+	background-repeat: no-repeat;
+}
